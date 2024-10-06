@@ -1,2 +1,2 @@
-# Ocr_budgettracker
- Use OCR to track budgets/expenses
+# budgettracker
+ set budget and track expenses
